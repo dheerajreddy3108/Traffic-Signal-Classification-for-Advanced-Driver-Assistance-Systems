@@ -1,4 +1,4 @@
-# traffic-signal-classification
+# Traffic-Signal-classification for Advanced Driver Assistance Systems
 Classification of actual German traffic signal images using CNN 
 
 Traffic Signal Classification is a key algorithm for the development of the autonomous driving field. It eliminates the need of the driver to drive according to the need of the road rules without the need of the attention to be paid.  Also, with the help of traffic signal classification the number of accidents that are happening due to the mistakes caused the human beings without noticing the road signs. Best example can be we can avoid driving at a speed more than the road limit, driving in one-ways can be avoided. It helps to check the driving behavior of humans making sure that they strictly follow rules laid by the local government bodies. According to the surveys carried across the globe it was known that more than 1 million people died yearly. 
